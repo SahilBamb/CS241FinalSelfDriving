@@ -7,8 +7,10 @@
 Implemented Bojarski et al.’s paper and trained machine learning model to allow virtual car to drive itself on virtual track.
 Also implemented smaller subtasks to better understand concepts like: 
 
-Full research on self-driving cars, subtasks and in-depth code breakdown can be found in research paper here:
-https://github.com/SahilBamb/SelfDrivingSimulation/blob/master/SelfDrivingCarProject.pdf
+## Please click this link to view full research on self-driving cars, subtasks, data collection code, data preprocessing code and model training code in its entirety: ##
+https://github.com/SahilBamb/SelfDrivingSimulation/blob/master/SelfDrivingCarFinalProject.ipynb 
+
+
 
 
 
